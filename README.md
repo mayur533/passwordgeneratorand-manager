@@ -9,6 +9,6 @@ Python app to generate and store passwords for applications/sites.
   Python, Tkinter, ttkthemes, sqlite3
 
 ## Usage:
-  Run `python password_generator.py`, use GUI.
+  Run `python pass.py`, use GUI.
 
 - Enjoy secure password management!
